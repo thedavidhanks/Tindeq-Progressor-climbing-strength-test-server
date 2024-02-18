@@ -1,5 +1,5 @@
 bokeh==2.4.3
 tornado==6.1
-pandas
-bleak
-playsound
+pandas==1.5.2
+bleak==0.21.1
+playsound==1.2.2

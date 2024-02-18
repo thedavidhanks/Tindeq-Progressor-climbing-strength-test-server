@@ -5,7 +5,7 @@ Created on Mon Oct 10 10:59:17 2022
 @author: Administrator
 """
 
-from src.tindeq import TindeqProgressor
+from tindeq_assessment.src.tindeq import TindeqProgressor
 # from src.analysis import analyse_data
 
 #%%
